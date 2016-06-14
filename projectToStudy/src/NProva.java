@@ -1,0 +1,3 @@
+class NProva{
+double tempo;
+}

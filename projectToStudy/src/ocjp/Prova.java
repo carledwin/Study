@@ -1,0 +1,3 @@
+class Prova{
+double nota;
+}

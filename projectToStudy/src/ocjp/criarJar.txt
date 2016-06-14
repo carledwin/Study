@@ -1,0 +1,6 @@
+C:\Users\cedwin\Desktop\Certificacao\src>c:\java\jdk1.7.0_65\bin\jar -cf bib.jar ocjp
+
+No diretorio raiz : C:\Users\cedwin\Desktop\Certificacao\src>
+Comando: c:\java\jdk1.7.0_65\bin\jar -cf 
+Declarar nome do .JAR : bib.jar 
+Informar o nome da pasta que sera empacotada: ocjp
